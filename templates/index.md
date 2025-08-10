@@ -1,6 +1,6 @@
 ---
 title: <% tp.file.title %>
-draft: true
-tags: 
+draft: false
+tags:
 ---
-# Table of Content
+

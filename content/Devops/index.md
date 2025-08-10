@@ -1,6 +1,6 @@
 ---
 title: Devops
-draft: true
+draft: false
 tags:
 ---
 # References

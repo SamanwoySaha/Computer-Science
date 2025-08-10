@@ -1,9 +1,9 @@
 ---
 title: <% tp.file.title %>
-draft: true
+draft: false
 tags: 
 date: <% tp.date.now("DD-MMM-YYYY") %>
 ---
 # References
 
-# Introduction
+

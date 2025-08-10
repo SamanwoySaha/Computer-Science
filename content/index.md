@@ -1,13 +1,13 @@
 ---
 title: Table of Contents
-draft: true
+draft: false
 tags:
 ---
-# Table of Content
+# Pages
 1. [[content/Core Subjects/index|Core Subjects]]
 2. [[content/Frontend/index|Frontend]]
 3. [[content/Backend/index|Backend]]
-4. 
+
 
 # Sources
 1. [harkirat](https://www.youtube.com/@harkirat1)

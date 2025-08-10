@@ -1,6 +1,6 @@
 ---
 title: Postgresql
-draft: true
+draft: false
 tags: 
 date: 10-Aug-2025
 ---

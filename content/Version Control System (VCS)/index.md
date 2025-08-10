@@ -1,6 +1,6 @@
 ---
 title: Version Control System (VCS)
-draft: true
+draft: false
 tags:
 ---
 # Table of Content
