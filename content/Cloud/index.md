@@ -1,6 +1,6 @@
 ---
-title: <% tp.file.title %>
+title: Cloud
 draft: true
-tags: 
+tags:
 ---
 # Table of Content

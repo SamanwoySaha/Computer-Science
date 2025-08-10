@@ -1,6 +1,6 @@
 ---
-title: <% tp.file.title %>
+title: Programming Languages
 draft: true
-tags: 
+tags:
 ---
 # Table of Content
