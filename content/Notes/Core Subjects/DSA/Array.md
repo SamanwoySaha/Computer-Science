@@ -1981,7 +1981,7 @@ def rotate(matrix):
 ```
     
 ### [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
-![image.png](image.png)
+![image.png](content/Notes/Core%20Subjects/DSA/attachments/image.png)
 ```cpp
 // O(m*n) O(n)
 vector<int> printSpiral(vector<vector<int>> mat) {
