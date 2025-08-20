@@ -1,5 +1,5 @@
 ---
-title: Untitled
+title: Javascript
 draft: false
 tags: 
 date: 10-Aug-2025
