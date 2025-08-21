@@ -11,6 +11,70 @@ Syntax refers to the set of rules that defines the combinations of symbols that 
 ## Semantics
 
 Semantics refers to the meaning or the interpretation of the symbols, characters, and commands in a language. It is about what the code is supposed to do when it runs.
+## Variables
+- used to store data that can be referenced and manipulated in a program
+- Variable names should be descriptive
+- must start with a letter or an '_' and contains letter,numbers and underscores
+- case sensitive
+```python
+#valid variable names
+first_name="KRish"
+last_name="Naik"
+
+# Invalid variable names
+#2age=30
+#first-name="Krish"
+##@name="Krish"
+```
+## Data Type
+- determine the type of operations that can be performed on the data, the values that the data can take, and the amount of memory needed to store the data.
+- Basic Data Types
+	- Integers
+	- Float
+	- String
+	- Boolean
+```python
+age=25 #int
+height=6.1 #float
+name="KRish" #str
+is_student=True #bool
+a=10; b=10
+type(a==b) # bool
+```
+### String
+```python
+### Counting Unique words in text
+text="In this tutorial we are discussing about sets"
+words=text.split()
+
+## convert list of words to set to get unique words
+unique_words=set(words)
+print(unique_words) # {'tutorial', 'we', 'discussing', 'this', 'In', 'about', 'sets', 'are'}
+print(len(unique_words)) # 8
+```
+### Dynamic Typing
+- type of a variable to change as the program executes
+```python
+var=10 #int
+print(var,type(var)) # 10 <class 'int'>
+
+var="Hello"
+print(var,type(var)) # Hello <class 'str'>
+
+var=3.14
+print(var,type(var)) # 3.14 <class 'float'>
+```
+### Type Conversion
+```python
+age=25
+print(type(age)) # <class 'int'>
+
+# Type conversion
+age_str=str(age)
+print(age_str) # 25
+print(type(age_str)) # <class 'str'>
+print(type(int(age))) # <class 'int'>
+```
 # Operators
 ## Arithmetic operators 
 
@@ -281,10 +345,77 @@ console.log(x %= 5); // This is the same as x = x % 5
 ```
 # Control Structures 
 ## Conditional Statements
+```python
+age=17
+
+if age<13:
+	if age <= 1:
+		print("You are an infant")
+	else:
+		print("You are a child")
+elif age<18:
+	print("You are a teenager") # You are a teenager
+else:
+	print("You are an adult")
+```
 ## Loop
+```python
+# while loop
+count=0
+
+while count<5:
+	print(count) # 0 1 2 3 4
+	count=count+1
+
+# for loop
+for i in range(3):
+	for j in range(2):
+		print(f"i:{i} and j:{j}")
+# i:0 and j:0 
+# i:0 and j:1 
+# i:1 and j:0 
+# i:1 and j:1 
+# i:2 and j:0 
+# i:2 and j:1
+```
+### Loop Control Statements
+#### Break
+```python
+# exits the loop permaturely
+for i in range(10):
+	if i==5:
+		break
+	print(i) 
+# 0 1 2 3 4
+```
+#### Continue
+```python
+# skips the current iteration and continues with the next.
+for i in range(10):
+	if i%2==0:
+		continue
+	print(i)
+# 1 3 5 7 9
+```
 # Data Structures
 # Functions 
+- block of code that performs specific task. 
+```python
+def add(a,b):
+	return a+b
+
+result=add(2,4)
+print(result) # 6
+
+# default parameter
+def greet(name="Guest"):
+	print(f"Hello {name} Welcome To the paradise")
+greet("Krish") # Hello Krish Welcome To the paradise
+greet() # Hello Guest Welcome To the paradise
+
+```
 # OOP
+
 # Error handling
 - Exceptions and error handling mechanisms (try, catch, finally)
 - Throwing errors
