@@ -1,7 +1,8 @@
 ---
 title: Array
 draft: false
-tags: 
+tags:
+  - review
 date: 19-Aug-2025
 ---
 # Features
@@ -12,7 +13,6 @@ date: 19-Aug-2025
 - Max Size:
     - locally: 10^6
     - globally: 10^7
-- zero based indexing
 - store elements in contiguous memory location
 
 # Data Structure

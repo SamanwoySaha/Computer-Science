@@ -414,7 +414,6 @@ greet("Krish") # Hello Krish Welcome To the paradise
 greet() # Hello Guest Welcome To the paradise
 
 ```
-# OOP
 
 # Error handling
 - Exceptions and error handling mechanisms (try, catch, finally)
