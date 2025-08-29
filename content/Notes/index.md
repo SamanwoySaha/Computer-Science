@@ -9,7 +9,7 @@ tags:
 3. [[content/Notes/Backend/index|Backend]]
 
 
-# Sources
+# Links
 1. [harkirat](https://www.youtube.com/@harkirat1)
 2. [100xdevs blogs/](https://projects.100xdevs.com/)
 3. [coding-interview-university](https://github.com/jwasham/coding-interview-university)
@@ -29,7 +29,7 @@ tags:
 17. [mitocw](https://www.youtube.com/@mitocw)
 18. [3blue1brown](https://www.youtube.com/@3blue1brown)
 
-# Daily Tech Dose
+# Others
 1. [BeyondCoding](https://www.youtube.com/@BeyondCoding)
 2. [ProgrammingHeroCommunity](https://www.youtube.com/@ProgrammingHeroCommunity)
 3. [100xDevsYT](https://www.youtube.com/@100xDevsYT)
