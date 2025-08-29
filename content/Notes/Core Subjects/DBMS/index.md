@@ -1,8 +1,7 @@
 ---
 title: DBMS
-draft: true
+draft: false
 tags:
-  - flashcards/DBMS
 date: 10-Aug-2025
 ---
 
