@@ -2,7 +2,6 @@
 title: Multiple Disease Prediction
 draft: false
 tags:
-  - component
 date: 24-Aug-2025
 ---
 

@@ -11,14 +11,15 @@ tags:
 I'm Samanwoy Saha, a software engineer now focusing on machine learning. I'm  building end-to-end solutions that integrate machine learning models with robust software systems.
 
 # Skills
-- **Languages** - `C/C++` `Python` `Javscript` `Typescript` `SQL`
-- **Frontend** - `React` `Next.js` `tailwind` 
-- **Backend** - `Node.js` `Express.js` `Prisma ORM` `WebSocket` 
-- **Devops** - `AWS (EC2, S3)` `Linux` `Docker` 
+- **Languages** - `C/C++` `Javscript` `Typescript` `Python` `SQL`
+- **Frontend** - `HTML` `CSS` `tailwind` `React` `Next.js` `Streamlit`
+- **Backend** - `Node.js` `Express.js` `Prisma ORM` `WebSocket`
 - **Database** -  `PostgreSQL` `MongoDB`
-- **Tools** - `Git` `Github`
+- **Cloud & Devops** - `AWS (EC2, S3)` `Linux` `Docker` `CI/CD Pipelines`
+- **Data Science & Machine Learning**: `Feature Engineering` `Statistical Analysis` `Exploratory Data Analysis (EDA)` `Data Preprocessing` `Model Evaluation` `Model Deployment` `Linear Regression` `Logistic Regression` `Support Vector Machine` `K-Means Clustering` `Scikit-Learn` `Pandas` `NumPy` `Matplotlib` `Seaborn`
+- **Tools** - `Git` `Github` `Jupyter Notebook`
 - **CS Subjects** - `DBMS` `Computer Network` `Operating System` `Obeject Oriented Programming` `Data Structures and Algorithms`
-- **Learning** - `Bash` `Jenkins` `GraphQL` `Flask` `Redis` `Kafka` `Kubernetes` `Machine Learning`
+
 
 # Recent Projects
 ## 🏥 [[Multiple Disease Prediction]]
